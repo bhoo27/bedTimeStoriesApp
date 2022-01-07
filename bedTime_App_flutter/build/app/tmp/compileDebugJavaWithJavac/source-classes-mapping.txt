@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/suganth/meditation_home_page_ui/BuildConfig.java
+ com.suganth.meditation_home_page_ui.BuildConfig

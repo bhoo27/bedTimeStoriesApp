@@ -1,0 +1,4 @@
+#Fri Jan 07 12:34:53 IST 2022
+base.0=C\:\\flutter\\Meditation_app_home_page\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
